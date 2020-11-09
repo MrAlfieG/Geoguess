@@ -6,7 +6,7 @@
     <div>
       <v-img src="@/assets/logo.png" width="45" />
     </div>
-    <span id="header-title">Geoguess Master</span>
+    <span id="header-title">Geoguess Motonovo</span>
     <div class="flex-grow-1"></div>
     <v-menu>
       <template v-slot:activator="{ on }">
