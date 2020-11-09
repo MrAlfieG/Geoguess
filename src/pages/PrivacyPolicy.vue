@@ -6,7 +6,7 @@
       </v-row>
       <v-row justify="center">
         <span class="section-description">
-          Spider Hand build Geoguess Master as free web app. This app is provided by Spider Hand at no cost and is intended for use as it is.
+           This app is provided at no cost and is intended for use as it is.
           <br>
           This page is used to inform visitors regarding my policies with the collection, use, and disclosure of personal information if anyone decided to use this app.
           <br>
@@ -28,7 +28,7 @@
       </v-row>
       <v-row justify="center">
         <span class="section-description">
-          I want to inform you that whenever you use this app, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ("IP") address, device name, operating system version, the configuration of the app when utilizing this app, the time and date of your use of the Service, and other statistics.
+          I want to inform you that whenever you use this app, in a case of an error in the app I collect the data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ("IP") address, device name, operating system version, the configuration of the app when utilizing this app, the time and date of your use of the Service, and other statistics.
         </span>
       </v-row>
       <v-row justify="center">
